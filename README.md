@@ -7,8 +7,16 @@
 **Почта:** and.andriyanova@mail.ru  
 **Telegram:** [t.me/nastxqd](http://t.me/nastxqd)
 
-🛠 Мой стек 
-Языки: Python, SQL, Java, CSS, HTML
-Анализ данных: Pandas, NumPy, SciPy, Matplotlib, Seaborn
-Работа с данными: PostgreSQL, MySQL, A/B тестирование
-Инструменты: Git, JupyterNotebook
+## 🛠 Мой стек
+
+### 👨‍💻 Языки программирования
+`Python` `SQL` `Java` `CSS` `HTML`
+
+### 📊 Анализ данных
+`Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
+
+### 🗄 Работа с данными
+`PostgreSQL` `MySQL` `A/B тестирование`
+
+### 🔧 Инструменты разработки
+`Git` `Jupyter Notebook`
