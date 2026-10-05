@@ -1,5 +1,5 @@
 # Анастасия
-**Аналитик данных (Data Analyst) **
+
 **Magnit Pharmacy C&B Analyst**
 ---
 
