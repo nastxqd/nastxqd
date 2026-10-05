@@ -1,6 +1,6 @@
 # Анастасия
-**Аналитик данных (Data Analyst)**
-
+**Аналитик данных (Data Analyst) **
+**Magnit Pharmacy C&B Analyst**
 ---
 
 **Телефон:** +7 925 309 07 63  
